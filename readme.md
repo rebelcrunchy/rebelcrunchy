@@ -1,1 +1,1 @@
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,java)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-green?logo=python)
