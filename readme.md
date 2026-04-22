@@ -1,1 +1,1 @@
-![Python](https://img.shields.io/badge/Python-green?logo=python)
+![Python](https://img.shields.io/badge/Python--green?logo=python)
